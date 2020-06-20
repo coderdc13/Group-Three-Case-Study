@@ -33,3 +33,8 @@ Their strength is simplifying the credit card processing on websites. Their weak
 
 
 ---
+## Prognosis
+---
+###
+Forbes values Stripe at $35B which some says is worth more then $10B than its closest competitor, Square.  They have aligned themselves with website developers and have started to move on the idea of Stripe Capital where they will be giving loans to customers as well as a credit card arm.  They have stayed away from the public markets because they feel they are in the early days of company development.
+---
