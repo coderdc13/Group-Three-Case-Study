@@ -3,7 +3,7 @@ FINTECH Case Study
 
 # Stripe.com Case Study
 ---
-![markdown-image](C:\Users\Frank\OneDrive\Pictures\stripe)
+![markdown-image](C:\Users\Frank\OneDrive\Pictures\stripe.png)
 
 ---
 ## Company, Function, Competitors
